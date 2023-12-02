@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "localllmproto"
+version = "0.1.0"
+description = "what you seeing is what i doing"
+authors = ["Charlotte_Jeremiah <40084865+lelelove1225@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+llama-cpp-python = "^0.2.20"
+langchain = "^0.0.344"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
