@@ -1,0 +1,2 @@
+# LocalLLMProto
+ローカルのllama.cppからHTTPサーバー作ってLangchainつないだりLlamaIndexつないだりする
